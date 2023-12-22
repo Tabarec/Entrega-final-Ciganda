@@ -1,0 +1,57 @@
+{
+    "productos": 
+
+    [
+        {
+            "nombre": "computadora",
+            "precio": 20000
+        },
+
+        {
+            "nombre": "mouse",
+            "precio": 1500  
+        },
+
+        {   
+            "nombre": "auto",
+            "precio": 100000 
+        },
+
+        {   
+            "nombre": "libro",
+            "precio": 5
+        },
+
+        {   
+            "nombre": "impresora",
+            "precio": 200
+        },
+
+        {   
+            "nombre": "usb",
+            "precio": 50
+        },
+
+        {   
+            "nombre": "consola",
+            "precio": 5000
+        },
+
+        {   
+            "nombre": "auriculares",
+            "precio": 120  
+        },
+
+        {
+            "nombre": "teclado",
+            "precio": 3000    
+        },
+
+        {
+            "nombre": "taladro",
+            "precio": 3500      
+        }
+
+    ]
+}
+
